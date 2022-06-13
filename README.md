@@ -4,7 +4,8 @@
   * 이름 : 이지우
   * 소속 : 소프트웨어융합대학
   * 관심 분야 : 컴퓨터 보안
-  * Github 주소 : [EZWOO][github][github]:https://github.com/EZWOO/
+  - Github 주소 : [EZWOO][github]
+  -[github]:https://github.com/EZWOO/
 
  ## 프로그래밍 언어
  1. C
