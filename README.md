@@ -26,5 +26,5 @@
 
 ### 주소
 Github 주소 : [EZWOO][github]
-[github] : https://github.com/EZWOO/
+[github] : https://github.com/EZWOO/ "EZWOO"
 E-Mail 주소 : <eraser112247@gmail.com>
