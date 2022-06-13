@@ -24,6 +24,7 @@
 |소프트웨어세미나|IT 트렌드|1|
 |인공지능영어1-S|영어|3|
 
-
-  - Github 주소 : [EZWOO][github]
-  - [github]:https://github.com/EZWOO/
+### 주소
+Github 주소 : [EZWOO][github]
+[github]:https://github.com/EZWOO/
+E-Mail 주소 : <eraser112247@gmail.com>
