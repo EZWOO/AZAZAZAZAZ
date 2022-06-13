@@ -25,6 +25,5 @@
 |인공지능영어1-S|영어|3|
 
 ### 주소
-Github 주소: [EZWOO][github]
-[github]: https://github.com/EZWOO/
+Github 주소: <https://github.com/EZWOO/>
 E-Mail 주소 : <eraser112247@gmail.com>
